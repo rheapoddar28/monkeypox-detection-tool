@@ -1,0 +1,100 @@
+.sub-1{
+  left:150px;
+  width:80%;
+  top:0;
+  padding: 100px 40px 0px 300px;
+  display:inline-flex;
+  position: absolute;
+  align-items: center;
+  justify-content:center;
+  flex-direction: column;
+  text-align: left;
+
+
+  /* padding: 1em 12em; */
+}
+/* .left{
+  text-align: left;
+}
+.right{
+  text-align: right;
+} */
+
+.sub-row{
+  margin:0 auto 3em auto;
+}
+.sub-para{
+  margin:8px;
+  font-size: 20px;
+  display: inline;
+}
+/* .about-monkeypox{
+  color:#c9d3db;
+  top:70px;
+  right:0;
+  left: 46%;
+  background: #7895B2;
+  position:relative;
+  display:inline-block;
+  align-items: center;
+  flex-direction:column;
+  height:60px;
+  padding: 55px 14px 14px 14px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 500px;
+} */
+.symptoms{
+  list-style:disc;
+}
+.skill1{
+  /* height: 150px; */
+  margin: 20px 30px;
+  width:20%;
+  float: right;
+  /* justify-content:flex-end;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative; */
+
+}
+.skill2{
+  /* height: 150px; */
+  margin: 5px 10px;
+  width:25%;
+  float:left;
+  /* display: inline-flex;
+  justify-content:flex-end;
+  flex-direction: column; */
+
+
+}
+.skill3{
+  /* height: auto; */
+  margin: 0 10px 5px 20px;
+  top:0;
+  display:flex;
+  justify-content: flex-start;
+  width:18%;
+  float: right;
+
+}
+.skill4{
+  /* height: auto; */
+  margin: 10px 10px;
+  top:40px;
+  width:25%;
+  float:left;
+  justify-content:flex-end;
+  flex-direction: column-reverse;
+}
+.sub-title-left{
+text-align: left;
+font-size: 50px;
+font-weight: bold;
+width:85%;
+}
+.sub-title-right{
+text-align: right;
+font-size: 50px;
+font-weight: bold;
+}
